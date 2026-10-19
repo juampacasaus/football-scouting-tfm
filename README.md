@@ -14,4 +14,4 @@ The project combines public FBref, Understat, and Transfermarkt data. Market val
 
 ## License
 
-The notebook and source code are licensed under the MIT License.
+The public Kaggle notebook is published under the Apache License 2.0, as required by Kaggle’s public notebook settings. The English source package and the files in this GitHub repository are licensed under the MIT License.
